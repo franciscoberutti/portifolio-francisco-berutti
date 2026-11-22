@@ -29,7 +29,6 @@ A versão React + Vite está neste repositório. A publicação desta revisão e
 
 - [AgroConecta no GitHub](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-1-ti1-0427200-agroconecta).
 - [EConecta no GitHub](https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2026-2-ti2-8183100-econecta).
-- Wireframes de média fidelidade para importar no Figma. [Desktop](docs/wireframe-desktop.svg) · [Mobile](docs/wireframe-mobile.svg).
 
 ## Sobre o Projeto
 
